@@ -60,7 +60,7 @@ class GameController:
 
     def get_total_positions(self) -> int:
         # TODO: IMPLEMENT THIS TO GET THE TOTAL POSITIONS FROM THE MAP - - exists to be
-        # testable
-        return -10
+        #testable
+        return 100
 
     
